@@ -1,0 +1,15 @@
+.idea
+node_modules
+.vagrant
+.gradle
+.settings
+bower_components
+metadata.json
+.rvmrc
+build
+pkg/
+Session.vim
+spec/fixtures
+.*.sw[a-z]
+*.un~
+npm-debug.log
